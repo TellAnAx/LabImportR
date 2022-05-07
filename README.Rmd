@@ -1,10 +1,11 @@
-# LabImportR
+LabImportR
+================
 
 Wrapper functions to import output data from laboratory devices into R.
 
 
 
-### Installation from GitHub:
+# Installation from GitHub
 
 ```
 install.packages("devtools")
